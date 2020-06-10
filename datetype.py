@@ -24,3 +24,17 @@ False
 (10, 20, 30, 40)
 
 # Dictionaries - Permiten agrupar datos que pertenescan a una misma entidad
+{
+    "Name" : "Pablo",
+    "Apellido" : "Martin",
+    "Edad" : "26"
+}
+
+print(type({
+
+ "Lat" : "5522441",
+    "Long" : "11044"
+
+}))
+
+None
